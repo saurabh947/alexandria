@@ -6,7 +6,7 @@ public class Constants {
     /**
      * The Scandit SDK App key.
      */
-    public static final String API_KEY = "h6GcgOEb90DK558llpmWlCh2naFzqx2itZBjhNb4KFk";
+    public static final String API_KEY = "<------ INSERT YOUR SCANDIT API KEY HERE ------>";
     /**
      * The request code for {@link BarcodeScannerActivity}.
      */
